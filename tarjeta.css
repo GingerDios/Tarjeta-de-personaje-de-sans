@@ -1,0 +1,39 @@
+.contenedor{
+    position: relative;
+    left: 600px;
+    top: 50px;
+    
+    background-color: rgb(255, 177, 98);
+    width: 300px;
+    height: 500px;
+    border-radius: 16px;
+    /* esta es la sombra numero #3 */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(to top, rgb(255, 177, 98), wheat);
+}
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Pixelify Sans", sans-serif;
+    justify-self: center;
+
+}
+h2{
+    font-size: 20px;
+
+    font-family: "Jersey 25", sans-serif;
+    margin-left: 10px;
+}
+h3{
+    font-size: 20px;
+
+    font-family: "Jersey 25", sans-serif;
+    margin-left: 10px;
+    color: red;
+}
+body{
+    background-color: rgb(255, 246, 227);
+}
+#sans{
+    margin-left: 20px;
+}
